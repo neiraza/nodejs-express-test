@@ -1,0 +1,2 @@
+環境をdevlopmentに固定した
+npm start
